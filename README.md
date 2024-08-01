@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PradVishwa
-- 👀 I’m interested in Web Development using php
-- 🌱 I’m currently Working on APS Web Hub Tilak Nagar New Delhi
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
